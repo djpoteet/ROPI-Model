@@ -1,7 +1,3 @@
-# ROPI-Model
-Return on Player Investment Model for MLB roster optimization
-# ROPI-Model
-Return on Player Investment Model for MLB roster optimization
 # ROPI Model (Return on Player Investment)
 
 This project introduces a data-driven model for evaluating player value in Major League Baseball. The ROPI (Return on Player Investment) model adjusts traditional WAR-based valuation by incorporating organizational context, player risk, and strategic timing — helping front offices make more informed, efficient roster decisions.
