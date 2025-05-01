@@ -115,11 +115,10 @@ Rule of thumb for this input:
 What it means: The risk factor of how likely a player is to swing dramatically up or down from projections.
 
 Why 1.0 for Westburg?
-  He has:
-    - Good plate discipline
-    - Solid contact and power
-    - No massive splits or glaring red flags
-    - He’s young and has been fairly consistent so far → low risk profile
+  - Good plate discipline
+  - Solid contact and power
+  - No massive splits or glaring red flags
+  - He’s young and has been fairly consistent so far → low risk profile
 
 So we used 1.0, meaning no penalty. For a player with a long history of injuries, or who depends on volatile tools (like walk rate or extreme platoon splits), we might use 1.1–1.3.
 
