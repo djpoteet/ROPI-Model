@@ -60,8 +60,8 @@ Rule of thumb for this input:
 
 Assign:
   - 1.00 = neutral
-  - >1.00 = org improves these players
-  - <1.00 = org underperforms
+  - > 1.00 = org improves these players
+  - < 1.00 = org underperforms
 
 2. Scouting Confidence = 1.00 (aka 100%)
 
@@ -75,8 +75,8 @@ Why 100% for Westburg?
 
 Rule of thumb for this input:
   - 1.00 = high confidence (established MLB players)
-  - <1.00 = low confidence (boom/bust prospect)
-  - >1.00 = extremely strong internal conviction (e.g., elite makeup + org has internal development info)
+  - > 1.00 = extremely strong internal conviction (e.g., elite makeup + org has internal development info)
+  - < 1.00 = low confidence (boom/bust prospect)
 
 3. Timing Multiplier = 1.2
 
