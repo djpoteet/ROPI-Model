@@ -130,6 +130,5 @@ Rule of thumb for this input:
 
 ---
 
-Built in **R**.  
-Visualization powered by **ggplot2**.  
+Built in **R**.   
 All estimates are illustrative. WAR values sourced from FanGraphs (Steamer/Depth Charts).
